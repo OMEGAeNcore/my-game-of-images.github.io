@@ -2,6 +2,9 @@
   background: url("../assets/images/background.jpg") center center no-repeat;
 }
 
+#myCanvas{
+  border: 2px solid red;
+
 h2 {
   text-align: center;
 }
