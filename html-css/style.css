@@ -1,0 +1,36 @@
+#myGame {
+  background: url("../assets/images/background.jpg") center center no-repeat;
+}
+
+h2 {
+  text-align: center;
+}
+
+#buttons {
+  text-align: center;
+}
+
+button {
+  padding: 5px;
+  margin: 3px;
+  border: none;
+  border-radius: 0.5em;
+}
+
+.attack {
+  background-color: brown;
+  color: white;
+  width: 25%;
+}
+
+.movement {
+  background-color: yellow;
+  color: black;
+  width: 25%;
+}
+
+.defend {
+  background-color: green;
+  color: white;
+  width: 50.5%;
+}
